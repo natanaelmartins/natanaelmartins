@@ -1,10 +1,8 @@
 ### Hi, there! 
 
 - 👋 I’m @natanaelmartins
-- 🌱 I’m currently learning back-end development focused on Java
-- 👀 I’m interested in AI and mobile dev (with Kotlin)
+- 🌱 I’m currently learning full stack development with Java and React
 - 📫 How to reach me: natanaelmartins.dev@gmail.com
-- 😊 Take a look at my portfolio: <a href="https://portfolio-natanael.netlify.app" target="_blank">portfolio-natanael.netlify.app</a>
 
 <div align="center">
   <a href="https://github.com/natanaelmartins">
